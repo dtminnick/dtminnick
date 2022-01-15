@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @dtminnick
-- 👀 I’m interested in using R in support of continuous improvement work.
-- 🌱 I’m currently learning how to deploy R packages on CRAN.  I built my first package called fdistr, which makes it easy to generate frequency distribution tables.
-- 💞️ I’m looking to collaborate on how to use R for data and statistical analysis for business process improvements.
-- 📫 You can reach me at donnie.minnick@gmail.com
+I'm a process expert working in the financial services industry and a data science enthusiast.  
+
+I'm interested in exploring how to use data analysis and data science in support of my continuous improvement work.  I've acquired a working knowledge of R and RStudio over the past several years through coursework at Coursera and self-study.
+
+I'm currently working on learning how to deploy R packages on CRAN.  I built my first packages called fdistr, which makes it easy to generate frequency distribution tables.
+
+You can reach me at donnie.minnick@gmail.com.
 
 <!---
 dtminnick/dtminnick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
