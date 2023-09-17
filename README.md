@@ -1,4 +1,4 @@
-I'm a process expert working in the financial services industry and a data science enthusiast.  
+I'm a process expert working in the financial services industry and a data analysis enthusiast.  
 
 I'm interested in exploring how to use data analysis and data science in support of my continuous improvement work.  I've acquired a working knowledge of R and RStudio over the past several years through coursework at Coursera and self-study.
 
